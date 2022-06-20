@@ -7,7 +7,7 @@
    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object/values"> Object.values </a> | 
    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object/assign"> Object.assign </a> | 
      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/delete"> delete </a> | 
-     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object/assign"> Object.assign </a> | 
+ 
   
   
   
